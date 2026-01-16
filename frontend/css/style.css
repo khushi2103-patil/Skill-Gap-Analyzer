@@ -1,0 +1,79 @@
+/* Custom Styles for Skill Gap Analyzer */
+
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+footer {
+    margin-top: auto;
+}
+
+.card {
+    border: none;
+    border-radius: 10px;
+}
+
+.card-header {
+    border-radius: 10px 10px 0 0 !important;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.progress {
+    border-radius: 10px;
+}
+
+.progress-bar {
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+.list-group-item {
+    border: none;
+    padding: 0.5rem 0;
+}
+
+.list-group-item:first-child {
+    border-top: none;
+}
+
+#skillsContainer .form-check {
+    padding: 0.5rem;
+    border-bottom: 1px solid #e9ecef;
+}
+
+#skillsContainer .form-check:last-child {
+    border-bottom: none;
+}
+
+#roadmapContent .card {
+    margin-bottom: 1rem;
+}
+
+.stage-badge {
+    display: inline-block;
+    padding: 0.25rem 0.75rem;
+    border-radius: 20px;
+    font-size: 0.875rem;
+    font-weight: 600;
+}
+
+.stage-beginner {
+    background-color: #d4edda;
+    color: #155724;
+}
+
+.stage-intermediate {
+    background-color: #fff3cd;
+    color: #856404;
+}
+
+.stage-advanced {
+    background-color: #f8d7da;
+    color: #721c24;
+}
