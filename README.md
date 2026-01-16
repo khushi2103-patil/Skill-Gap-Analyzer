@@ -211,8 +211,21 @@ Before running the application, ensure you have the following installed:
    - Click "Analyze Skill Gap"
    - View matched and missing skills
    - Click "Get Learning Roadmap" for personalized learning path
+  
+## Process:
+![Home Page](https://github.com/user-attachments/assets/7ce6c87a-6d21-4334-8f83-a160147837b6)
 
-## 🌐 API Endpoints
+![login page](https://github.com/user-attachments/assets/0125d9fc-74fb-4986-b01d-73cf5c391b91)
+
+![Register page](https://github.com/user-attachments/assets/39ca0234-6367-45c5-a08c-7e8cc66b0bea)
+
+![DashBoard](https://github.com/user-attachments/assets/fdfe1705-1516-42b2-956e-e67fea913aed)
+
+![DataBase](https://github.com/user-attachments/assets/13aea254-4e85-4336-8040-078baa615eaf)
+
+
+## 🌐 API 
+Endpoints
 
 ### Authentication Endpoints
 
@@ -436,3 +449,4 @@ For issues and questions, please open an issue on the project repository.
 ---
 
 **Built with ❤️ using Spring Boot and Bootstrap**
+
