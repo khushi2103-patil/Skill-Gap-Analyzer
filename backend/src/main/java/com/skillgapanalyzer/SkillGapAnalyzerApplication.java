@@ -1,0 +1,15 @@
+package com.skillgapanalyzer;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+/**
+ * Main Spring Boot Application
+ */
+@SpringBootApplication
+public class SkillGapAnalyzerApplication {
+    
+    public static void main(String[] args) {
+        SpringApplication.run(SkillGapAnalyzerApplication.class, args);
+    }
+}
